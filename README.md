@@ -1,2 +1,2 @@
-# wings-boss
-Wings Operations Management System.
+# boss
+Operations Management System.
